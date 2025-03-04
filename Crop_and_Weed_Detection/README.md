@@ -18,19 +18,6 @@ The **Crop and Weed Detection** project leverages **Machine Learning and Compute
 - **Matplotlib/Seaborn** (Visualization)  
 - **Jupyter Notebook** (Development Environment)  
 
-## 📂 Project Structure  
-Crop_and_Weed_Detection/ │── code/ # Contains ML model, scripts, and configurations
-│ ├── data_preprocessing/ # Image preprocessing scripts
-│ ├── model_training/ # CNN model and training scripts
-│ ├── performing_detection/ # Code for real-time detection
-│ ├── utils/ # Helper functions and utilities
-│ ├── README.md # Explanation of the code structure
-│── dataset/ # Training images for crops and weeds
-│── results/ # Model performance and evaluation reports
-│── Crop_Weed_Detection_Report.pdf # Detailed project report
-│── README.md # Project documentation
-
-
 ## 📊 Model Performance  
 - **Accuracy:** 92.5%  
 - **Precision:** 91.0%  
