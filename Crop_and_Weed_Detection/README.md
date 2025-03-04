@@ -24,7 +24,7 @@ The **Crop and Weed Detection** project leverages **Machine Learning and Compute
 - **Recall:** 93.5%  
 - **F1-Score:** 92.2%  
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 - Integrating YOLOv8 for Faster Detection
 - Deploying on Edge Devices (Raspberry Pi, Jetson Nano)
 - Expanding the Dataset for Better Generalization
